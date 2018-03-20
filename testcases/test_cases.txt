@@ -1,1 +1,16 @@
 //please add your test cases here.
+
+1.Verify that a user can add a task to the list.
+2.Verify that a user can complete a task. 
+3.Verify that a user can remove a task.
+4.Verify that a user can Toggle All tasks.
+5.verify that a user can Untoggle All tasks.
+6.Verify that a user can add category of the task.
+7.Verify that a user can add task due date.
+8.Verify that by clicking on "Advanced" link add category field, 'Add category' button and color drop down option menu appear.
+9.Verify that by clicking on a category a user is redirected to the delete confirmation page with Yes/Nevermind options.
+10.Verify that if a user chooses "Yes" option on a delete confirmation page, a category is deleted.
+11.Verify that if a user chooses "Nevermind" option on a delete confirmation page , a user is resdirected to the homepage.
+12.Verify that by entering already existing category and choosing another color a user is redirected to change color confirmation page.
+13.Verify that by entering a task with a past date it becomes overdue and red.
+14.Verify that an overdue task changes its color after complition.
